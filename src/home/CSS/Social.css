@@ -1,0 +1,56 @@
+.learnmore-home{
+    width: Hug (129px); 
+    height: Hug (48px); 
+    padding: 12px 24px 12px 24px;
+    border-radius: 10px; 
+    border: 1px; 
+    gap: 8px;
+    background: #000000;
+    border: 1px solid #F3A042;
+    color:#F3A042 ;
+}
+
+.social-home h2{
+    width: 616px; 
+    height: 116px;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.social-home p{
+        width: 616px; 
+        height: 81px;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 27px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.social-home{
+    width: Fill (616px); 
+    height: Hug (309px); 
+    gap: 24px;
+}
+.socialimage-home{
+    float: right;
+    margin-left: 70px;
+}
+.socialimage-home img{
+    width: 616px; 
+    height: 400px;
+    
+}
+
+.socialwrap-home{
+    width: Fixed (1, 440px); 
+    height: Hug (624px); 
+    padding: 112px 64px 112px 64px; 
+    gap: 80px;
+    display: flex;
+    
+    
+}

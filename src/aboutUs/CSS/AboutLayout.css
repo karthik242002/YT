@@ -1,0 +1,808 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.welcomewrap{
+    width: Fixed (1, 440px); 
+    height: Hug (517px);
+    padding-bottom: 64px;
+    gap: 80px;
+}
+.welcomewrap center{
+    width: Fixed (768px); 
+    height: Hug (293px); 
+    gap: 24px;
+    margin: 0;
+    padding: 0;
+}
+
+.welcomewrap center h1{
+width: 768px; 
+height: 134px;
+   
+    font-family: 'Roboto', sans-serif;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.welcomewrap center p{
+    width: 768px; 
+    height: 135px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+/* purpose page */
+ .purpose{
+    width: Fixed (1, 440px);
+    height: Hug (1, 301px);
+    padding: 112px 64px 112px 64px;
+    gap: 80px;
+    background-color: #FEF6EC;
+     }
+
+.purpose section {
+    width: Fill (1, 312px); 
+    height: Hug (297px); 
+    gap: 80px;
+}
+
+.purpose section h2{
+    width: 616px; 
+    height: 58px;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+        margin-top: 0;
+        padding-top: 0;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 58px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.purpose section p{
+    width: 616px; 
+    height: 297px;
+      float: right;
+    font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 27px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.purpose img{
+    width: 100%; 
+    height: 700px;
+}
+
+/*commit page*/
+.commit{
+width: Fixed (1, 440px); 
+height: Fixed (1, 110px); 
+padding: 44px 64px 54px 64px; 
+gap: 80px;
+}
+
+.commit section{
+    width: Fixed (1, 313px); 
+    height: Hug (226px); 
+    gap: 16px;
+}
+
+.commit section h2{
+    width: 1313px; 
+    height: 58px;
+    font-family: 'Roboto', sans-serif;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 58px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.commit section p{
+    width: 768px; 
+    height: 135px;
+    font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 27px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.commit h2{
+    width: 1312px; 
+    height: 58px;
+font-family: 'Roboto', sans-serif;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 58px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.offerings-container{
+    width: Fill (1, 312px); 
+    height: Hug (482px); 
+    gap: 73px;
+    display: flex;
+}
+
+.offerings img{
+    width: 292px; 
+    height: 240px;
+
+}
+
+.offerings h4{
+width: 292px; 
+height: 42px;
+font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.offerings p{
+    width: 292px; 
+    height: 144px;
+    font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+
+/*mission and journey*/
+.mission{
+    width: Fill (1, 440px); 
+    height: Hug (320px); 
+    padding: 112px 64px 112px 64px; 
+    border: 1px 0px 0px 0px; 
+    gap: 150px;
+    background-color:#FEF6EC ;
+    color: #000000;
+    border-top: 1px solid #000000;
+    display: flex;
+}
+.mission p{
+    width: 616px; 
+    height: 96px;
+    
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+        float: left;
+        margin: 0;
+        padding: 0;
+}
+
+.mission h2{
+    width: 616px; 
+    height: 96px;
+    
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 58px;
+        letter-spacing: 0em;
+        text-align: left;
+        float: right;
+        margin: 0;
+            padding: 0;
+}
+
+.journey{
+    width: Fill (1, 440px); 
+    height: Hug (320px); 
+    padding: 112px 64px 112px 64px; 
+    border: 0px 0px 1px 0px; 
+    gap: 150px;
+    background-color:#FEF6EC ;
+    border-bottom: 1px solid #000000;
+    display: flex;
+}
+
+.journey h2{
+width: 616px; 
+height: 96px;
+
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: left;
+    float: left;
+    margin: 0;
+        padding: 0;
+}
+
+.journey p{
+    width: 616px; 
+    height: 96px;
+   
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+        float: right;
+        margin: 0;
+            padding: 0;
+    }
+
+/*Empower page*/
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: Fixed (1, 440px);
+    height: Fixed (1, 162px);
+    padding: 95px 64px 112px 64px;
+    gap: 80px;
+    background-color: #FEF6EC;
+
+}
+
+.left-column h2 {
+    width: 616px; 
+    height: 116px;
+    
+        font-size: 45px;
+        font-weight: 700;
+        line-height: 58px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-top: 0;
+}
+
+.left-column p {
+width: 616px; 
+height: 189px;
+
+    
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.left-column {
+    flex: 1;
+
+
+}
+
+.right-column ul {
+    list-style: none;
+}
+
+.right-column {
+    flex: 1;
+    width: Fill (616px);
+    height: Hug (1, 034px);
+    gap: 80px;
+
+
+}
+
+.item-list {
+    width: Fill (616px);
+    height: Hug (164px);
+    gap: 40px;
+
+}
+
+.item-list .icon {
+    float: left;
+    flex: 1;
+    width: 48px;
+    height: 48px;
+    padding: 4px 6.0000152587890625px 3.9998397827148438px 6px;
+}
+
+.item-list .desc {
+    float: right;
+    flex: 1;
+    width: Hug (48px);
+    height: Hug (164px);
+    gap: 16px;
+
+
+}
+
+.divider {
+    border-left: 2px solid black;
+    height: 100px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.desc h4 {
+    margin-top: 0;
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 0;
+    width: 528px;
+
+}
+
+.desc p {
+    margin-top: 20px;
+    margin-bottom: 25px;
+    font-size: 16px;
+    font-weight: 400;
+    width: 528px;
+    color: #000000;
+
+
+}
+
+/* together page */
+
+.together{
+    width: Fixed (1, 440px); 
+    height: Hug (385px); 
+    padding: 70px 64px 70px 64px; 
+    gap: 80px;
+    background-color: #FFFFFF;
+}
+
+.together h3{
+    width: 482px; 
+    height: 37px;
+    font-family: Inter;
+        font-size: 31px;
+        font-weight: 700;
+        line-height: 37px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.together p{
+    width: 768px; 
+    height: 192px;
+    
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: center;
+}
+
+/* team page */
+
+.ourteam{
+    width: Fixed (1, 440px); 
+    height: Fixed (1, 694px); 
+    padding: 70px 64px 70px 64px; 
+    gap: 80px;
+    background-color: #FEF6EC;
+}
+
+.team{
+    width: Fixed (804px);
+    height: Hug (256px); 
+    gap: 16px;
+}
+
+.team h6{
+    margin-left: 292px;
+    height: 50px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+        font-size: 33px;
+        font-weight: 900;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.team h1{
+    width: 804px; 
+    height: 58px;
+    margin-top: 0;
+    padding-top: 0;
+        font-size: 48px;
+        font-weight: 600;
+        line-height: 58px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.team p{
+    width: 804px; 
+    height: 108px;
+    margin-top: 0;
+        padding-top: 0;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 27px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.points h4{
+    width: 768px; 
+    height: 42px;
+    margin-bottom: 20px;
+       
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 42px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.points p{
+width: 768px; 
+height: 81px;
+margin-top: 0;
+padding-top: 0;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.team-end{
+    width: Fixed (1, 440px); 
+    height: Fixed (272px); 
+    padding: 80px 64px 112px 64px; 
+    gap: 80px;
+    background-color: #FEF6EC;
+}
+
+.team-end h2{
+    width: 632px; 
+    height: 37px;
+    font-family: Inter;
+        font-size: 31px;
+        font-weight: 700;
+        line-height: 37px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.team-end p{
+    width: 768px; 
+    height: 72px;
+   
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: center;
+}
+
+/* social Initiatives page */
+
+.social{
+    width: Fill (768px); 
+    height: Hug (217px); 
+    gap: 24px;
+}
+
+.social h2{
+width: 768px; 
+height: 58px;
+
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.social p{
+width: 768px; 
+height: 135px;
+
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.social-content{
+    width: Fill (804px);
+     height: Hug (162px); 
+     gap: 32px;
+}
+
+.social-content h4{
+    width: 804px; 
+    height: 42px;
+    
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 42px;
+        letter-spacing: 0em;
+        text-align: center;
+}
+
+.social-content p{
+    width: 804px; 
+    height: 96px;
+    
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: center;
+}
+
+.social-footer{
+    width: Fixed (1, 440px); 
+    height: Hug (249px); 
+    padding: 25px 64px 50px 25px; 
+    border: 1px 0px 0px 0px; 
+    gap: 80px;
+    border-top: 1px solid #000000;
+}
+
+.social-footer h4{
+    width: 517px; 
+    height: 37px;
+    font-family: Inter;
+        font-size: 31px;
+        font-weight: 700;
+        line-height: 37px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.social-footer p{
+    width: 768px; 
+    height: 96px;
+    
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: center;
+}
+
+/* corevalues page */
+
+.corevalueswrap{
+    background-color: #FEF6EC;
+    width: Fixed (1, 440px); 
+    height:  1750px; 
+    padding: 34px 130px 64px 130px; 
+    gap: 80px;
+}
+
+.corevalue-head h2{
+    width: 631px; 
+    height: 58px;
+    
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 58px;
+        letter-spacing: 0em;
+        text-align: center;
+}
+
+
+.corevalue-head p{
+   
+        width: 1046px; 
+        height: 100px;
+            font-family: Inter;
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0em;
+            text-align: left;
+}
+.corevalue-list{
+    background-color: #FEF6EC;
+    width: Fixed (955px); 
+    height: Hug (1, 204px); 
+    gap: 16px;
+    padding-left: 160px;
+    padding-right: 160px;
+    margin-top: 0;
+    padding-top:0 ;
+}
+.core-right{
+    float: right;
+    margin-top: 0;
+    padding-top: 0;
+}
+.core-left{
+    float: left;
+    margin-top: 50px;
+}
+
+.core-right h4{
+    width: 867px; 
+    height: 42px;
+font-family: 'Roboto', sans-serif;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 42px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-bottom: 25px;
+        
+}
+
+.core-right p{
+    width: 867px; 
+    height: 72px;
+font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+        
+}
+
+.core-footer{
+    width: Fixed (1, 440px); 
+    height: Fixed (1, 662px); 
+    padding: 1px 64px 20px 64px; 
+    gap: 80px;
+    background-color: #FEF6EC;
+    
+}
+.core-footer p{
+    width:1312px;
+    height: 61px;
+
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: center;
+        
+}
+/* footer page */
+
+.about-footer{
+width: Fixed (1, 440px); 
+height: Hug (646.5px);
+ padding: 80px 80px 80px 80px; 
+ gap: 80px;
+ background-color: #FEF6EC;
+}
+
+.footer-section{
+    width: Fixed (1, 280px); 
+    height: Hug (486.5px); 
+    gap: 80px;
+    border-top: #000000 solid 1px;
+    
+   
+}
+.footer-container{
+width: Fill (1, 280px); 
+height: Hug (225px);
+ gap: 40px;
+ display: flex;
+padding-top: 20px;
+padding-bottom: 40px;
+
+}
+
+.footer-links{
+    list-style: none;
+}
+.footer-links li a{
+    text-decoration: none;
+    color: #000000;
+}
+
+.footer-links h6{
+    width: 290px; 
+    height: 24px;
+        font-family: 'Roboto', sans-serif;
+        
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.footer-links li{
+    width: Fill (290px); 
+    height: Hug (37px); 
+    padding: 8px 0px 8px 0px;
+    font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 21px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.footer-bottom{
+    width: 1280px; 
+    height: Hug (100.5px); 
+    gap: 32px;
+    display: flex;
+}
+
+
+.footer-bottom{
+    width: Hug (1, 247.04px); 
+    height: Hug (67.5px); 
+    gap: 640px;
+}
+
+/* copyrights page */
+
+.footer-copyrights {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: #000000 solid 1px;
+    padding: 30px 0px 30px 0px;
+
+}
+
+.copy-left {
+    display: flex;
+    align-items: center;
+}
+
+.copy-logo {
+    width: 66.0389633178711px; 
+    height: 67.5px;
+    margin-right: 60px;
+}
+
+.copy-quote {
+    margin-left: 0;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.copy-right {
+    text-align: right;
+    
+    font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 21px;
+        letter-spacing: 0em;
+        
+}
+
+/* Optional: Style the copyright text */
+.copyright {
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}

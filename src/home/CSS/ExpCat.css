@@ -1,0 +1,127 @@
+.container1-home{
+    width: Fixed (1, 440px); 
+    height: Fixed (1, 225px); 
+    padding: 112px 64px 112px 64px; 
+    gap: 80px;
+    background-color: #FEF6EC; 
+   
+}
+
+
+center .head1-home{
+         
+        height: 58px;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 58px;
+        letter-spacing: 0em;
+        text-align: center;
+        display: flex;
+            text-align: center;
+            justify-content: center;
+            flex-direction: column;
+}
+center .desc1-home{
+        width:768px ;
+        height: 90px;
+        font-family: Inter;
+        font-size: 25px;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: center;
+        display: flex;
+            text-align: center;
+            justify-content: center;
+            flex-direction: column;
+}
+
+.wrap1-home .icon1-home{
+    flex: 1;
+    color: #F3A042;
+    width: 48px; 
+    height: 48px;
+    font-size: 48px;
+    float: left;
+}
+.wrap1-home .shopnow-home button{
+    flex: 1;
+    width: Fixed (121px); 
+    height: Fixed (48px); 
+    padding: 12px 24px 12px 24px; 
+    border-radius: 35px; 
+    border: 1px; 
+    gap: 12px;
+    background-color:  #333333;
+        color: #F3A042;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        margin-top: 10px;
+        float:right;
+}
+.details1-home h5{
+    width: 405.3333435058594px; 
+    height: 34px;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 34px;
+        letter-spacing: 0em;
+        text-align: left;
+        
+        
+}
+.details1-home{
+    width: Fill (405.33px); 
+    height: Hug (130px); 
+    gap: 24px;
+    margin-top: 80px;
+}
+.details1-home p{
+        width: 405.3333435058594px; 
+        height: 72px;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-top: 0;
+        padding: 0;
+}
+.product-list-home{
+   
+        /* Two equal columns in each row */
+    width: Fixed (405.33px);
+        height: Hug (202px);
+        gap: 24px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        
+   width: 890.67px;
+
+}
+
+.wrap1-home{
+    width: 405.33px;
+
+
+}
+.product1-home{
+margin-top: 40px;
+margin-bottom: 40px;
+margin-left: 20px;
+margin-right: 20px;
+
+}
+.bot1-home{
+        width: 768px; 
+        height: 90px;
+        font-family: Inter;
+        font-size: 25px;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: center;
+        margin-top: 40px;
+}

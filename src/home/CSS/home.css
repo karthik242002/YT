@@ -1,0 +1,76 @@
+.app-container{
+
+    height: 400px;
+    
+    
+    background-image: url("");
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: #FEF6EC;
+    display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+   
+     height: Fixed (1, 162px); 
+     padding: 75px 64px 112px ; 
+     
+     
+   
+    
+        /* Optional, to keep the background fixed while scrolling */
+    
+
+}
+.background-image{
+    display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+}
+
+.title{
+        
+        font-size: 69px;
+        
+    
+        letter-spacing: 0em;
+        text-align: center;
+    
+        
+}
+.one {
+    margin: 0px;
+    padding: 0px;
+    font-weight: 600;
+}
+ 
+.two{
+    margin-top: 0;
+    padding: 0;
+    font-weight: 400;
+}
+
+.app-container p{
+    width: 939.4298706054688px; 
+    height: 132px;
+        font-size: 22px;
+        font-weight: 400;
+        line-height: 33px;
+        letter-spacing: 0em;
+        text-align: center;
+}
+.learnmore{
+    width: Hug (118.96px); 
+    height: Hug (43.98px); 
+    padding: 10.989748001098633px 21.979496002197266px 10.989748001098633px 21.979496002197266px; 
+    border-radius: 9.158123970031738px; 
+    border: 0.9158123731613159px; 
+    gap: 7.326498985290527px;
+    background: linear-gradient(0deg, #000000, #000000),linear-gradient(0deg, #F18D2E, #F18D2E);
+    border: 0.92px solid #F18D2E;
+    color: #F18D2E;
+}
+
+    
