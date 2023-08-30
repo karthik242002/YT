@@ -4,11 +4,9 @@
     align-items: center;
     padding: 10px 70px;
     background-color: #FEF6EC;
-    color:black;
-    height: 52px;
+    color: black;
     font-family: 'Roboto', sans-serif;
     border-bottom: rgba(0, 0, 0, 0.538) solid 1px;
-    margin-bottom: 0;
 }
 
 .logo img {
@@ -169,4 +167,38 @@ width: 66.0389633178711px;
 .desc{
     width: Fill (284px); 
     height: Hug (45px);
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+    /* Styles for mobile devices */
+    .navbar {
+        padding: 10px;
+    }
+    
+    .menu {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-top: 0;
+    }
+    
+    .list {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px;
+    }
+    
+    /* Adjust other styles as needed */
+}
+
+/* Add more media queries as needed for specific screen sizes */
+
+/* Tablet Styles */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    /* Styles for tablet devices */
+}
+
+/* Desktop Styles */
+@media screen and (min-width: 1025px) {
+    /* Styles for desktop devices */
 }

@@ -9,6 +9,205 @@
         padding: 20px;
     }
 }
+/* Common styles */
+.header-fp {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.header-fp h1 {
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.header-fp p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.button-row {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 4px;
+    color: #F3A042;
+    font-size: 16px;
+}
+
+/* Mobile styles (up to 768px) */
+@media screen and (max-width: 768px) {
+    .header-fp {
+        padding: 10px;
+    }
+
+    .header-fp h1 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    .header-fp p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .button {
+        width: auto;
+        height: auto;
+        padding: 6px 12px;
+        font-size: 14px;
+    }
+}
+
+/* Tablet and above styles (768px and up) */
+@media screen and (min-width: 768px) {
+    .header-fp {
+        padding: 30px 64px;
+    }
+
+    .header-fp h1 {
+        font-size: 56px;
+        line-height: 67px;
+    }
+
+    .header-fp p {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    .button {
+        width: auto;
+        height: auto;
+        padding: 8px 16px;
+        font-size: 16px;
+    }
+}
+
+/* Other sections and components can be styled in a similar way */
+
+/* Example for product rows */
+.product-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 30px 64px;
+    gap: 60px;
+}
+
+/* Mobile styles for product row (up to 768px) */
+@media screen and (max-width: 768px) {
+    .product-row {
+        padding: 20px;
+    }
+}
+
+/* Add styles for other sections and components here */
+/* Common styles */
+.header-fp {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.header-fp h1 {
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.header-fp p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.button-row {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 4px;
+    color: #F3A042;
+    font-size: 16px;
+}
+
+/* Mobile styles (up to 768px) */
+@media screen and (max-width: 768px) {
+    .header-fp {
+        padding: 10px;
+    }
+
+    .header-fp h1 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    .header-fp p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .button {
+        width: auto;
+        height: auto;
+        padding: 6px 12px;
+        font-size: 14px;
+    }
+}
+
+/* Tablet and above styles (768px and up) */
+@media screen and (min-width: 768px) {
+    .header-fp {
+        padding: 30px 64px;
+    }
+
+    .header-fp h1 {
+        font-size: 56px;
+        line-height: 67px;
+    }
+
+    .header-fp p {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    .button {
+        width: auto;
+        height: auto;
+        padding: 8px 16px;
+        font-size: 16px;
+    }
+}
+
+/* Other sections and components can be styled in a similar way */
+
+/* Example for product rows */
+.product-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 30px 64px;
+    gap: 60px;
+}
+
+/* Mobile styles for product row (up to 768px) */
+@media screen and (max-width: 768px) {
+    .product-row {
+        padding: 20px;
+    }
+}
+
+/* Add styles for other sections and components here */
+
 
 .header-fp {
     width: 100%;
